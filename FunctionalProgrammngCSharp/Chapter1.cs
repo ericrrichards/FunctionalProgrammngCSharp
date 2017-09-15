@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FunctionalProgrammngCSharp
 {
-    public class Class1
+    public class Chapter1
     {
     }
 }
